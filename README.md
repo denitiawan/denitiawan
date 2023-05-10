@@ -1,2 +1,1 @@
-# denisetiawan.github.io
-Curriculum Vitae
+Hey it's about me @denitiawan!
