@@ -1,7 +1,5 @@
 ## Hello & Welcome
 
-**Let Me Introduce My Self**
-
 My name is **Deni Setiawan**, iam currentlly work as `Backend & System Analyst` at tech company service. iam use this github for learn and exploring my skills and experience. for completelly my skills iam also learning `frontend`, `devops`, `system design`, `architect`, and `software documentation`.
 
 
