@@ -10,3 +10,13 @@ My name is **Deni Setiawan**, iam currentlly work as `Backend & System Analyst` 
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=denitiawan&show_icons=true)
 
+
+
+#### Backend
+![image](https://github.com/denitiawan/denitiawan/assets/11941308/19ca9882-09b1-4191-a654-fc5f954ec653)
+
+#### DevOps
+
+#### Front End
+
+#### Documentation
