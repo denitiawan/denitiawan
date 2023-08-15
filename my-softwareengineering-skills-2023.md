@@ -1,6 +1,6 @@
 [Back to Profile](https://github.com/denitiawan)
 
-## My Software Engineering skills in 2023
+## My Software Development skills in 2023
 iam currently working as an `Backend & System Analyst`. for completally my software development skills, i am also learning `frontend` `architect` `devops` and `software documentation`.
 
 ## FrontEnd
