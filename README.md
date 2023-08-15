@@ -12,11 +12,5 @@ My name is **Deni Setiawan**, iam currentlly work as `Backend & System Analyst` 
 
 
 
-#### Backend
+[My Software Engineering Skills in 2023](https://github.com/denitiawan/denitiawan/blob/main/my-softwareengineering-skills-2023.md)
 
-
-#### DevOps
-
-#### Front End
-
-#### Documentation
