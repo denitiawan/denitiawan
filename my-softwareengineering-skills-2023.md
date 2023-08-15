@@ -1,5 +1,5 @@
 ## My Software Engineering skills in 2023
-iam currently working as `Backend & System Analyst` at Tech Company Service. and for complete my skills in software engineering iam also learning `frontend` `architect` `devops` and `software documentation`.
+iam currently working as `Backend & System Analyst` at Tech Company Service. and for completally my skills in software engineering, i am also learning `frontend` `architect` `devops` and `software documentation`.
 
 #### FrontEnd
 ![image](https://github.com/denitiawan/denitiawan/assets/11941308/5baa2928-ae37-4bfe-9ec2-e14af125edf5)
