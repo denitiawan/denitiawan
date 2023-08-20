@@ -1,7 +1,7 @@
 [Back to Profile](https://github.com/denitiawan)
 
 ## My Software Development skills in 2023
-My name is **Deni Setiawan**, iam currentlly work as `Backend & System Analyst`. for completally my skills, iam also learning `frontend` `backend`  `system design` `devops` and `software documentation`.
+My name is **Deni Setiawan**, iam currentlly work as `Backend & System Analyst`. for completally my skills, iam also learns `frontend` `backend`  `system design` `devops` and `software documentation`.
 
 All skills on below, i has beent implemented to my projects and working experiences.
 
