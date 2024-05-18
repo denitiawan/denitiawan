@@ -3,6 +3,6 @@ My name is **Deni Setiawan**, I'm use GitHub for exploring my skills, which are 
 
 - [Personal Web & Portofolio](https://denisetiawan.my.id/)
 - [Medium Blog](https://denitiawan.medium.com)
-
+- [Linked In](https://www.linkedin.com/in/deni-setiawan-a2328967/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denitiawan&label=Profile%20Views&color=0e75b6&style=flat)
