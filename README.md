@@ -9,25 +9,16 @@ My name is **Deni Setiawan**, I'm use GitHub for exploring my skills, which are 
 
 
 ## Project / Research / Learn
-### (2022) 
-|Name|Type|Repository|
+|Year|Type|Name|
 |--|--|--|
-|Coder Mate (Everything)|Learn|[link](https://github.com/codermate)|
-|Medium Blog|Learn|[link](https://github.com/denitiawan/medium-blog)|
-
-### (2023) 
-|Name|Type|Repository|
-|--|--|--|
-|Research (Everything)|Research|[link](https://github.com/denitiawan/research)|
-|React Docker Project|Learn|[link](https://github.com/dockerize-react-project)|
-|Springboot Microservice Project|Project|[link](https://github.com/springboot-microservices-project)|
-|React Micro frontend|Learn|[link](https://github.com/react-microfrontend-project)|
-
-### (2024) 
-|Name|Type|Repository|
-|--|--|--|
-|Go Totorial & Example|Learn|[link](https://github.com/go-microservices-project)|
-|DevOps Tutorial & Example|Learn|[link](https://github.com/devops-tutorial-example)|
-|KaisirPOS|Project|[link](https://github.com/kaisirpos)|
-|Springboot OAuth2 |Project|[link](https://github.com/elastic-search-product-catalog)|
-|Springboot 3 Tutorial & Example|Learn|[link](https://github.com/springboot-3-example)|
+|2022|Learn|[Coder Mate](https://github.com/codermate) (Learn Everything)|
+|2022|Learn|[Medium Blog](https://github.com/denitiawan/medium-blog)|
+|2023|Research|[Research](https://github.com/denitiawan/research) (Everything)|
+|2023|Learn|[React Docker Project](https://github.com/dockerize-react-project)|
+|2023|Project|[Springboot Microservice Project](https://github.com/springboot-microservices-project)|
+|2023|Learn|[React Micro frontend](https://github.com/react-microfrontend-project)|
+|2024|Learn|[Go Totorial & Example](https://github.com/go-microservices-project)|
+|2024|Learn|[DevOps Tutorial & Example](https://github.com/devops-tutorial-example)|
+|2024|Project|[KaisirPOS](https://github.com/kaisirpos)|
+|2024|Project|[Springboot OAuth2](https://github.com/elastic-search-product-catalog)|
+|2024|Learn|[Springboot 3 Tutorial & Example](https://github.com/springboot-3-example)|
