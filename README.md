@@ -22,3 +22,4 @@ My name is **Deni Setiawan**, I'm use GitHub for exploring my skills, which are 
 |2024|Project|[KaisirPOS](https://github.com/kaisirpos)|
 |2024|Project|[Springboot OAuth2](https://github.com/springboot-oauth2-server-project)|
 |2024|Learn|[Springboot 3 Tutorial & Example](https://github.com/springboot-3-example)|
+|2024|Learn|[AI Integration & LLM)|
