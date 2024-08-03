@@ -1,4 +1,4 @@
-# Hello. [🚀](https://github.com/denitiawan/portofolio)
+# Hello. [_](https://github.com/denitiawan/portofolio)
 My name is **Deni Setiawan**, I'm use GitHub for exploring my skills, which are related to my work and experience in software development. 
 
 
